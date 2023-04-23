@@ -20,13 +20,13 @@
 
 ### D004
 **Título:** Manter o equilíbrio material \
-**Frequência:** 1 \
-**Partidas:** [G003](#g003)
+**Frequência:** 2 \
+**Partidas:** [G003](#g003), [G006](#g006)
 
 ### D005
 **Título:** Cuidado ao fazer capturas (Verificar se as peças tem defesa) \
-**Frequência:** 1 \
-**Partidas:** [G003](#g003)
+**Frequência:** 2 \
+**Partidas:** [G003](#g003), [G006](#g006)
 
 ### D006
 **Título:** Evitar mexer o peão de F na abertura \
@@ -38,6 +38,31 @@
 **Frequência:** 1 \
 **Partidas:** [G004](#g004)
 
+### D008
+**Título:** Cuidado ao posicionar as peças avançadamente (Verifique se a jogada é segura antes de jogar) \
+**Frequência:** 1 \
+**Partidas:** [G005](#g005)
+
+### D009
+**Título:** Não expor a dama tão cedo \
+**Frequência:** 1 \
+**Partidas:** [G005](#g005)
+
+### D010
+**Título:** Procurar ataques descobertos do adversário \
+**Frequência:** 2 \
+**Partidas:** [G005](#g005), [G006](#g006)
+
+---
+
+### D???
+**Título:** ???????? \
+**Frequência:** 1 \
+**Partidas:** [G???](#g???)
+
+---
+---
+
 ## Partidas
 
 ### G001
@@ -45,7 +70,7 @@
 **Rating:** 400 \
 **Data:** 20 de Abril de 2023 \
 **Adversário:** Libesta :algeria: (400) \
-**Abertura:** Unknown \
+**Abertura:** ???? \
 **[Watch on Youtube](https://www.youtube.com/watch?v=j4fGOqmq_Ho)**
 |
 **[Analysis on chess.com](https://www.chess.com/game/live/75675589410?username=sleeprerun)**
@@ -60,7 +85,7 @@
 **Rating:** 408 \
 **Data:** 20 de Abril de 2023 \
 **Adversário:** Raul25252 :de: (411) \
-**Abertura:** Unknown \
+**Abertura:** ???? \
 **[Watch on Youtube](https://youtu.be/j4fGOqmq_Ho?t=889)**
 |
 **[Analysis on chess.com](https://www.chess.com/game/live/75675802055?username=sleeprerun)**
@@ -73,7 +98,7 @@
 **Rating:** 416 \
 **Data:** 21 de Abril de 2023 \
 **Adversário:** deltamix2 :switzerland: (405) \
-**Abertura:** Defesa Petroff
+**Abertura:** Defesa Petroff \
 **[Watch on Youtube](https://www.youtube.com/watch?v=ufjJv3Ln2XU)**
 |
 **[Analysis on chess.com](https://www.chess.com/game/live/75676845453?username=sleeprerun)**
@@ -87,10 +112,53 @@
 **Rating:** 424 \
 **Data:** 21 de Abril de 2023 \
 **Adversário:** Megaboy5 :us: (421) \
-**Abertura:** Unknown
+**Abertura:** ???? \
 **[Watch on Youtube](https://youtu.be/ufjJv3Ln2XU?t=1069)**
 |
 **[Analysis on chess.com](https://www.chess.com/game/live/75677633665?username=sleeprerun)**
 
 - Evitar mexer o peão de F na abertura ([D006](#d006))
 - Verificar intenção do adversário no último lance ([D007](#d007))
+
+### G005
+
+**Rating:** 432 \
+**Data:** 22 de Abril de 2023 \
+**Adversário:** ElmAaron :us: (449) \
+**Abertura:** ???? \
+**[Watch on Youtube](https://www.youtube.com/watch?v=dVS6gWmoirA)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/75750153605?username=sleeprerun)**
+
+- Cuidado ao posicionar as peças avançadamente (Verifique se a jogada é segura antes de jogar) ([D008](#d008))
+- Não expor a dama tão cedo ([D009](#d009))
+- Procurar ataques descobertos do adversário ([D010](#d010))
+
+### G006
+
+**Rating:** 440 \
+**Data:** 22 de Abril de 2023 \
+**Adversário:** Barros45 :us: (419) \
+**Abertura:** Abertura Italiana  \
+**[Watch on Youtube](https://youtu.be/dVS6gWmoirA?t=1172)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/75751284193?username=sleeprerun)**
+
+- Procurar ataques descobertos do adversário ([D010](#d010))
+- Manter o equilíbrio material ([D004](#d004))
+- Cuidado ao fazer capturas (Verificar se as peças tem defesa) ([D005](#d005))
+
+---
+
+### G???
+
+**Rating:** ??? \
+**Data:** ?? de ???? de ???? \
+**Adversário:** ???? :brazil: (???) \
+**Abertura:** ???? \
+**[Watch on Youtube](???)**
+|
+**[Analysis on chess.com](???)**
+
+- ???????? ([D???](#d???))
+- ???????? ([D???](#d???))
