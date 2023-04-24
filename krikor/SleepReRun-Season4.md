@@ -1,5 +1,7 @@
 # SleepReRun - Season 4
 
+Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.chess.com/member/gmkrikor).
+
 ## Dicas
 
 ### D001
@@ -10,8 +12,8 @@
 
 ### D002
 **Título:** Acelerar o Roque (Proteção do Rei) \
-**Frequência:** 1 \
-**Partidas:** [G001](#g001)
+**Frequência:** 2 \
+**Partidas:** [G001](#g001), [G008](#g008)
 
 ### D003
 **Título:** Controlar o centro com peões \
@@ -20,8 +22,8 @@
 
 ### D004
 **Título:** Manter o equilíbrio material \
-**Frequência:** 2 \
-**Partidas:** [G003](#g003), [G006](#g006)
+**Frequência:** 3 \
+**Partidas:** [G003](#g003), [G006](#g006), [G007](#g007)
 
 ### D005
 **Título:** Cuidado ao fazer capturas (Verificar se as peças tem defesa) \
@@ -35,8 +37,8 @@
 
 ### D007
 **Título:** Verificar intenção do adversário no último lance \
-**Frequência:** 1 \
-**Partidas:** [G004](#g004)
+**Frequência:** 3 \
+**Partidas:** [G004](#g004), [G007](#g007), [G008](#g008)
 
 ### D008
 **Título:** Cuidado ao posicionar as peças avançadamente (Verifique se a jogada é segura antes de jogar) \
@@ -52,6 +54,16 @@
 **Título:** Procurar ataques descobertos do adversário \
 **Frequência:** 2 \
 **Partidas:** [G005](#g005), [G006](#g006)
+
+### D011
+**Título:** Cuidado ao ser ganancioso \
+**Frequência:** 1 \
+**Partidas:** [G008](#g008)
+
+### D012
+**Título:** Colocar todas as peças em jogo \
+**Frequência:** 1 \
+**Partidas:** [G008](#g008)
 
 ---
 
@@ -147,6 +159,35 @@
 - Procurar ataques descobertos do adversário ([D010](#d010))
 - Manter o equilíbrio material ([D004](#d004))
 - Cuidado ao fazer capturas (Verificar se as peças tem defesa) ([D005](#d005))
+
+### G007
+
+**Rating:** 448 \
+**Data:** 24 de Abril de 2023 \
+**Adversário:** nicvraf :croatia: (460) \
+**Abertura:** Defesa Escandinava \
+**[Watch on Youtube](https://www.youtube.com/watch?v=QhJ9U9rB1AU)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/76029760429?username=sleeprerun)**
+
+- Manter o equilíbrio material ([D004](#d004))
+- Verificar intenção do adversário no último lance ([D007](#d007))
+- Não realizar capturas preciptadas (Quando a peça adversária está cravada)
+
+### G008
+
+**Rating:** 464 \
+**Data:** 24 de Abril de 2023 \
+**Adversário:** ametist123 :turkey: (469) \
+**Abertura:** Abertura Italiana \
+**[Watch on Youtube](https://youtu.be/QhJ9U9rB1AU?t=912)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/76029760429?username=sleeprerun)**
+
+- Cuidado ao ser ganancioso ([D011](#d011))
+- Acelerar o Roque ([D002](#d002))
+- Verificar intenção do adversário no último lance ([D007](#d007))
+- Colocar todas as peças em jogo ([D012](#d012))
 
 ---
 
