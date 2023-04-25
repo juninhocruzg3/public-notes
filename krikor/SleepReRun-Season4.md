@@ -12,8 +12,8 @@ Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.c
 
 ### D002
 **Título:** Acelerar o Roque (Proteção do Rei) \
-**Frequência:** 2 \
-**Partidas:** [G001](#g001), [G008](#g008)
+**Frequência:** 3 \
+**Partidas:** [G001](#g001), [G008](#g008), [G009](#g009)
 
 ### D003
 **Título:** Controlar o centro com peões \
@@ -27,8 +27,8 @@ Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.c
 
 ### D005
 **Título:** Cuidado ao fazer capturas (Verificar se as peças tem defesa) \
-**Frequência:** 2 \
-**Partidas:** [G003](#g003), [G006](#g006)
+**Frequência:** 3 \
+**Partidas:** [G003](#g003), [G006](#g006), [G009](#g009)
 
 ### D006
 **Título:** Evitar mexer o peão de F na abertura \
@@ -64,6 +64,21 @@ Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.c
 **Título:** Colocar todas as peças em jogo \
 **Frequência:** 1 \
 **Partidas:** [G008](#g008)
+
+### D013
+**Título:** Lembre-se que você tem um adversário (Pense na defesa também) \
+**Frequência:** 1 \
+**Partidas:** [G009](#g009)
+
+### D014
+**Título:** Não tente dar o Mate do Pastor \
+**Frequência:** 1 \
+**Partidas:** [G010](#g010)
+
+### D015
+**Título:** Não desenvolva a dama tão cedo \
+**Frequência:** 1 \
+**Partidas:** [G010](#g010)
 
 ---
 
@@ -188,6 +203,33 @@ Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.c
 - Acelerar o Roque ([D002](#d002))
 - Verificar intenção do adversário no último lance ([D007](#d007))
 - Colocar todas as peças em jogo ([D012](#d012))
+
+### G009
+
+**Rating:** 464 \
+**Data:** 25 de Abril de 2023 \
+**Adversário:** jonesey1932 :us: (474) \
+**Abertura:** Abertura dos 4 cavalos \
+**[Watch on Youtube](https://www.youtube.com/watch?v=5l4TtQ_8314)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/76114361343?username=sleeprerun)**
+
+- Acelerar o Roque ([D002](#d002))
+- Cuidado ao fazer capturas (Verificar se as peças tem defesa) ([D005](#d005))
+- Lembre-se que você tem um adversário (Pense na defesa também) ([D013](#d013))
+
+### G010
+
+**Rating:** 472 \
+**Data:** 25 de Abril de 2023 \
+**Adversário:** bebepunk123 :us: (475) \
+**Abertura:** Tentativa de Mate do Pastor \
+**[Watch on Youtube](https://youtu.be/5l4TtQ_8314?t=1233)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/76115538069?username=sleeprerun)**
+
+- Não tente dar o mate do pastor ([D014](#d014))
+- Não desenvolva a dama tão cedo ([D015](#d015))
 
 ---
 
