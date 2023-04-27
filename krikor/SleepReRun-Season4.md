@@ -32,13 +32,13 @@ Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.c
 
 ### D006
 **Título:** Evitar mexer o peão de F na abertura \
-**Frequência:** 1 \
-**Partidas:** [G004](#g004)
+**Frequência:** 2 \
+**Partidas:** [G004](#g004), [G011](#g011)
 
 ### D007
 **Título:** Verificar intenção do adversário no último lance \
-**Frequência:** 3 \
-**Partidas:** [G004](#g004), [G007](#g007), [G008](#g008)
+**Frequência:** 5 \
+**Partidas:** [G004](#g004), [G007](#g007), [G008](#g008), [G011](#g011), [G012](#g012)
 
 ### D008
 **Título:** Cuidado ao posicionar as peças avançadamente (Verifique se a jogada é segura antes de jogar) \
@@ -79,6 +79,21 @@ Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.c
 **Título:** Não desenvolva a dama tão cedo \
 **Frequência:** 1 \
 **Partidas:** [G010](#g010)
+
+### D016
+**Título:** Buscar um conhecimento básico de aberturas \
+**Frequência:** 1 \
+**Partidas:** [G012](#g012)
+
+### D017
+**Título:** Fazer exercícios táticos sempre \
+**Frequência:** 1 \
+**Partidas:** [G012](#g012)
+
+### D018
+**Título:** Evitar padrões de garfos \
+**Frequência:** 1 \
+**Partidas:** [G012](#g012)
 
 ---
 
@@ -230,6 +245,36 @@ Anotações das partidas SpeedRun do [GM Krikor Sevag Mekhitarian](https://www.c
 
 - Não tente dar o mate do pastor ([D014](#d014))
 - Não desenvolva a dama tão cedo ([D015](#d015))
+
+### G011
+
+**Rating:** 480 \
+**Data:** 27 de Abril de 2023 \
+**Adversário:** Caldeirone :brazil: (493) \
+**Abertura:** ???? \
+**[Watch on Youtube](https://www.youtube.com/watch?v=BErtbXoztck)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/76294794375?username=sleeprerun)**
+
+- Evitar mexer o peão de F na abertura ([D006](#d006))
+- Evitar deixar todos os peões nas casas de cor que você perdeu o bispo
+- Verificar intenção do adversário no último lance ([D007](#d007))
+
+
+### G012
+
+**Rating:** 488 \
+**Data:** 27 de Abril de 2023 \
+**Adversário:** goodheadshop :us: (476) \
+**Abertura:** ???? \
+**[Watch on Youtube](https://youtu.be/BErtbXoztck?t=950)**
+|
+**[Analysis on chess.com](https://www.chess.com/game/live/76295468467?username=sleeprerun)**
+
+- Buscar um conhecimento básico de aberturas ([D016](#d016))
+- Fazer exercícios táticos sempre ([D017](#d017))
+- Evitar padrões de garfos ([D018](#d018))
+- Verificar intenção do adversário no último lance ([D007](#d007))
 
 ---
 
